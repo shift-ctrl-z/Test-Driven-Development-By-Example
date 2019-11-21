@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "BusinessRules\\": ["src/BusinessRules/","tests/BusinessRules/"],
+    }
+  },
+  "require": {
+    "phpunit/phpunit": "^8.4"
+  }
+}
